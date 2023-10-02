@@ -1,4 +1,4 @@
-# Command Tools via Django Library
+# Template of Command Tools via Django Library
 ## How to execute?
 ```
 python manage.py SHHello
